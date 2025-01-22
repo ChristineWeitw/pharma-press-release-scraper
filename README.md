@@ -26,6 +26,6 @@ cd pharma-press-release-scraper
 
 Run the individual scripts:
 
-python pfizer_scraper.py
-python merck_scraper.py
-python lilly_scraper.py
+- python pfizer_scraper.py
+- python merck_scraper.py
+- python lilly_scraper.py
